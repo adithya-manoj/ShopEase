@@ -1,0 +1,25 @@
+.scan-container {
+    height: 70vh;
+    padding: 2rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+}
+
+.camera {
+    width: 50%;
+    height: 40vh;
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+
+.uploadcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 1rem;
+    padding: 1%;
+}

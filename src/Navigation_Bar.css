@@ -1,0 +1,12 @@
+.custom-navbar {
+    background-color: #ffffff;
+    padding: 10px;
+    color: rgb(0, 0, 0) !important;
+}
+
+.navbar-title {
+    color: rgb(0, 0, 0) !important;
+    font-size: large;
+    font-weight: bold;
+    margin: 0;
+}

@@ -1,0 +1,24 @@
+.cart-head{
+    display: flex;
+}
+.cart-title{
+    font-size: 3rem;
+    margin: 1rem;
+}
+.cart-subtitle{
+    font-size: 1rem;
+    margin: 1rem;
+}
+
+.shop-logo{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.shop-logo img{
+    border-radius: 10px;
+}
+
+.shop-item{
+    margin: 1rem;
+    padding: 1rem;
+}
